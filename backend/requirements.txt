@@ -1,0 +1,11 @@
+flask
+flask-cors
+keras
+keras-tuner
+tensorflow-cpu
+Pillow
+matplotlib
+keras_tuner
+opencv-python
+pandas
+sklearn
