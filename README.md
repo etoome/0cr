@@ -22,3 +22,12 @@
   <img width="325" src="https://github.com/etoome/0cr/blob/main/screenshots/draw.png">
   <img width="325" src="https://github.com/etoome/0cr/blob/main/screenshots/results.png">
 </div>
+
+## Authors
+* **[etoome](https://github.com/etoome)**
+* **[vvmuysew](https://github.com/vvmuysew)**
+* **[sebaarte](https://github.com/sebaarte)**
+* **[emakdisa](https://github.com/emakdisa)**
+* **[vcostapa](https://github.com/vcostapa)**
+* **[hfoudia](https://github.com/hfoudia)**
+* **[tlissenk](https://github.com/tlissenk)**
