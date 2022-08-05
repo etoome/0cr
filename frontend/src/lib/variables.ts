@@ -1,1 +1,1 @@
-export const BACKEND_URL = 'https://0cr.etoo.be/api';
+export const BACKEND_URL = 'http://127.0.0.1:5000/';
